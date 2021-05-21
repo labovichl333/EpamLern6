@@ -4,7 +4,7 @@ import by.epamtc.lab6.entity.airline.Airline;
 import by.epamtc.lab6.entity.plane.CargoPlane;
 import by.epamtc.lab6.entity.plane.PassengerPlane;
 import by.epamtc.lab6.entity.plane.Plane;
-import by.epamtc.lab6.exeption.EmptyPlaneException;
+import by.epamtc.lab6.exeption.serviseExeption.EmptyPlaneException;
 
 
 import java.util.List;

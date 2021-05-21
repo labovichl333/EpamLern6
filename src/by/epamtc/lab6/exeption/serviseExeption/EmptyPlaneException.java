@@ -1,4 +1,4 @@
-package by.epamtc.lab6.exeption;
+package by.epamtc.lab6.exeption.serviseExeption;
 
 public class EmptyPlaneException extends Exception {
     public EmptyPlaneException() {

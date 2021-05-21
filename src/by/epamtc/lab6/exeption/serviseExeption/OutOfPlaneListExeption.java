@@ -1,4 +1,4 @@
-package by.epamtc.lab6.exeption;
+package by.epamtc.lab6.exeption.serviseExeption;
 
 public class OutOfPlaneListExeption extends Exception{
     public OutOfPlaneListExeption() {

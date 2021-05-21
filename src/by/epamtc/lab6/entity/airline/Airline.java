@@ -1,7 +1,7 @@
 package by.epamtc.lab6.entity.airline;
 
 import by.epamtc.lab6.entity.plane.Plane;
-import by.epamtc.lab6.exeption.OutOfPlaneListExeption;
+import by.epamtc.lab6.exeption.serviseExeption.OutOfPlaneListExeption;
 
 import java.io.Serializable;
 import java.util.ArrayList;

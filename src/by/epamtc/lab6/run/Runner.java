@@ -3,14 +3,11 @@ package by.epamtc.lab6.run;
 import by.epamtc.lab6.entity.airline.Airline;
 import by.epamtc.lab6.entity.plane.CargoPlane;
 import by.epamtc.lab6.entity.plane.PassengerPlane;
-import by.epamtc.lab6.exeption.EmptyPlaneException;
+import by.epamtc.lab6.exeption.serviseExeption.EmptyPlaneException;
 import by.epamtc.lab6.service.AirlineCalculateService;
 import by.epamtc.lab6.service.AirlineSearchService;
 import by.epamtc.lab6.service.AirlineSortService;
 import by.epamtc.lab6.util.MaxSpeedComparator;
-
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 
 public class Runner {
     public static void main(String[] args) throws EmptyPlaneException {
